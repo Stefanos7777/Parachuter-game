@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\USER\Downloads\712784Project1\Project1\Parachuter.h(69,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Parachuter.h(69,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\InfoLine.h(37,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\InfoLine.h(37,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Cloud.h(44,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Cloud.h(44,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Point.h(58,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Point.h(58,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Thunder.h(71,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\Thunder.h(71,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\GameState.h(78,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\GameState.h(78,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\GameState.h(78,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Downloads\712784Project1\Project1\GameState.h(78,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\USER\Downloads\712784Project1\Project1\x64\Debug\Project1.exe
